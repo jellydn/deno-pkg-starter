@@ -24,6 +24,14 @@ yarn build
 deno install --allow-read --allow-write --allow-env --allow-net --allow-run --no-check -f https://raw.githubusercontent.com/jellydn/deno-stater/main/main.ts
 ```
 
+## Deno deploy
+
+```sh
+deno install --allow-read --allow-write --allow-env --allow-net --allow-run --no-check -f https://deno.land/x/deploy/deployctl.ts
+
+yarn deploy
+```
+
 ## Author
 
 👤 **Huynh Duc Dung**
