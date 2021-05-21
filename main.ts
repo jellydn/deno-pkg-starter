@@ -2,9 +2,9 @@ import { config, logger } from "./deps.ts";
 
 const { GREETING } = config();
 
-async function main() {
+function main() {
   logger.warn("hello from Deno :)");
   logger.warn(GREETING);
 }
 
-await main();
+main();
