@@ -21,7 +21,7 @@ yarn build
 ## Install
 
 ```sh
-deno install --allow-read --allow-write --allow-env --allow-net --allow-run --no-check -f https://raw.githubusercontent.com/jellydn/deno-stater/main/main.ts
+deno install --allow-read --allow-write --allow-env --allow-net --allow-run --no-check -f https://raw.githubusercontent.com/jellydn/deno-starter/main/main.ts
 ```
 
 ## Deno deploy
