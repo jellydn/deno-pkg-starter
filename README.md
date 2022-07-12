@@ -41,6 +41,12 @@ cd npm
 npm publish # or np
 ```
 
+## Useful links
+
+- dnt: Deno to Node Transform https://github.com/denoland/dnt
+- Deno testing https://deno.land/manual/testing
+- Using Rust in Deno and Web Apps https://deno.com/blog/wasmbuild
+
 ## Author
 
 👤 **Huynh Duc Dung**
