@@ -15,9 +15,9 @@ await build({
   scriptModule: false,
   package: {
     // package.json properties
-    name: "@jellydn/sum",
+    name: "just-sum",
     version: Deno.args[0],
-    description: "Sum two number.",
+    description: "Sum two numbers.",
     license: "MIT",
     repository: {
       type: "git",

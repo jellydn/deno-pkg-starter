@@ -1,15 +1,15 @@
-# Welcome to @jellydn/sum 👋
+# Welcome to just-sum 👋
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-> Deno stater
+> Deno starter template
 
 ## Usage
 
 ```sh
-npm install @jellydn/sum
+npm install just-sum
 ```
 
 ## Author

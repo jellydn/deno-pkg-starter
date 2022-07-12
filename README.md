@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-> Deno stater
+> Deno starter template
 
 ## Prerequisites
 
@@ -38,7 +38,7 @@ More https://deno.land/x#info
 ```sh
 deno task npm 0.1.0
 cd npm
-np
+npm publish # or np
 ```
 
 ## Author
