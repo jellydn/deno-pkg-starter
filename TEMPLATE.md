@@ -1,4 +1,4 @@
-# Welcome to deno-starter 👋
+# Welcome to @jellydn/sum 👋
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
@@ -6,39 +6,10 @@
 
 > Deno stater
 
-## Prerequisites
-
-- [Deno](https://deno.land/#installation)
-- [Rust](https://rustup.rs/)
-- [np](https://github.com/sindresorhus/np)
-
-## Build
+## Usage
 
 ```sh
-deno task wasmbuild
-```
-
-## Test
-
-```sh
-cargo test
-deno task test
-```
-
-## Publish
-
-### Deno
-
-deno.land/x is a hosting service for Deno scripts. It caches releases of open source modules stored on GitHub and serves them at one easy to remember domain.
-
-More https://deno.land/x#info
-
-### NPM
-
-```sh
-deno task npm 0.1.0
-cd npm
-np
+npm install @jellydn/sum
 ```
 
 ## Author

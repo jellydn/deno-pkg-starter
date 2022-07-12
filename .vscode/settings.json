@@ -1,9 +1,3 @@
 {
-    "deno.codeLens.implementations": true,
-    "deno.codeLens.references": true,
-    "deno.codeLens.referencesAllFunctions": true,
-    "deno.enable": true,
-    "deno.lint": true,
-    "deno.internalDebug": true,
-    "deno.suggest.completeFunctionCalls": true
+  "deno.enable": true
 }
