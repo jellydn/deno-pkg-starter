@@ -6,6 +6,8 @@
 
 > Deno starter template
 
+[![IT Man - Tech #30 - Deno 101 - The best developer experience [Vietnamese]](https://i.ytimg.com/vi/ocLNcwm4xUs/hqdefault.jpg)](https://www.youtube.com/watch?v=ocLNcwm4xUs)
+
 ## Prerequisites
 
 - [Deno](https://deno.land/#installation)
